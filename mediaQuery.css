@@ -1,0 +1,375 @@
+@media only screen and (max-width:1105px){
+
+
+    .logo-size{
+        letter-spacing: 5px;
+        font-size: 28px;
+    }
+
+    nav{
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        min-height: 100%;
+    }
+    .logo{
+        margin: 10px;
+        font-size: 10px;
+        margin-top: 30px;
+        margin-left: 25px;
+        padding-left: 20px;
+    }
+    .nav-links{
+        display: flex;
+        justify-content: space-around;
+        width: 42%;
+        margin-left: 20%;
+        margin-top: 22px;    
+    }
+    li{
+        padding-right: 10px;
+        font-size: 14px;
+        letter-spacing: 2px;
+    }
+    .burger{
+        margin-top: 10px;
+    }
+    .burger div{
+        width: 25px;
+        height:2px;
+        margin: 5px;
+        margin-right: 35px;
+    }
+    .hero1{
+        height: 32rem;
+        width: 32rem;
+        margin: 10px;
+        margin-left: 180px;
+        margin-top: 180px;
+        margin-bottom: 80px;
+        padding-bottom: 200px;
+    }
+    .hero2{
+        position: absolute;
+        left: 58rem;
+        height: 32rem;
+        width: 26rem;
+        margin-left: -150px;
+        margin-top: 180px;
+        padding-bottom: 200px;
+
+    }
+    .slogon{
+        top: 80px;
+        font-size: 3rem;
+    }
+    .description {
+        top: 300px;
+        left:20px;
+    }
+    .btn{
+        left: 1.2rem;
+        top: 29.5rem;
+    }
+    
+    
+}
+
+@media only screen and (max-width:768px){
+    
+}
+
+@media only screen and (max-width:500px){
+
+    .logo-size{
+        letter-spacing: 3.5px;
+        font-size: 20px;
+    }
+    .logo{
+        margin: 10px;
+        font-size: 10px;
+        margin-top: 30px;
+        margin-left: -50px;
+        padding-left: 0px;
+    }
+    .nav-links{
+        display: flex;
+        justify-content: space-around;
+        width: 42%;
+        margin-left: 20%;
+        margin-top: 22px;
+        display: none;    
+    }
+    .burger{
+        margin-top: 10px;
+    }
+    .burger div{
+        width: 26px;
+        height:3px;
+        margin: 5px;
+        margin-right: -25px;
+
+    }
+    .dot-pattern{
+        position: absolute;
+        right: 0px;
+        top: 6.5rem;
+        z-index: 1;
+    }
+    .dot{
+        height: 3px;
+        width: 3px;
+        background-color: #cbccce;
+        border-radius: 50%;
+        display: inline-block;
+        padding: 3px;
+        margin: 0px;
+        margin-bottom: 5px;
+        margin-right: 5px;
+    }
+    .hero1{
+        height: 20rem;
+        width: 15rem;
+        margin: 10px;
+        margin-left: 100px;
+        margin-top: 140px;
+        margin-bottom: 60px;
+        padding-bottom: 30px;
+    }
+    .hero2{
+        position: absolute;
+        left: 35.8rem;
+        height: 20rem;
+        width: 6rem;
+        margin-left: -150px;
+        margin-top: 140px;
+        padding-bottom: 30px;
+
+    }
+    .slogon{
+        top: 80px;
+        font-size: 2rem;
+        left: 2.5rem;
+    }
+    .description {
+        top: 210px;
+        left:2.5rem;
+        font-size: 13px;
+        letter-spacing: 2px;
+        z-index: 1;
+    }
+    .btn{
+        left: 2.5rem;
+        top: 22rem;
+        font-size: 13px;
+    }
+
+
+
+
+    .img1{
+        height: 35rem;
+        width: 27.5rem;
+        padding-top: 90px;
+        padding-left: 2.5rem;
+        margin-right: 0rem;
+        padding-bottom: 100px;
+        position: relative;
+        top: 200px;
+    }
+    .about{
+        background-color: #39393a;
+        text-align: left;
+        color: white;
+        padding-right: 110px;
+        position: relative;
+        padding-bottom: 200px;
+    }
+    .container2{
+        position: absolute;
+        top: 10px;
+        left: 35px;
+        padding-top: 80px;
+
+    }
+    .about-us{
+        padding-bottom: 10px;
+        letter-spacing: 1px;
+        font-size: 14px;
+    }
+    .about-line{
+        padding-bottom: 15px;
+        font-size: 24px;
+        letter-spacing: 2px;
+    }
+    .about-description{
+        font-size: 13px;
+        letter-spacing: 2px;
+        padding-bottom: 30px;
+    }    
+    .box{
+        position: absolute;
+        background-color: #39393a;
+        color: white;
+        top: 38rem;
+        left: 16rem;
+        text-align: center;
+        padding: 10px;
+        padding-top: 15px;
+    }
+    .exp{
+        color: #ff414d;
+        font-size: 1.5rem;
+        font-weight: bold;
+        float: left;
+        padding-right: 8px;
+    }
+    .exp-desp{
+        padding-top: 2px;
+        padding-right: 10px;
+        font-size: 8px;
+        float: left;
+        text-align: left;
+        font-weight: bold;
+        letter-spacing: 1px;
+        
+    }
+
+
+
+
+    .project{
+        background-color: white;
+        text-align: left;
+        padding-left: 0px;
+        position: relative;
+    }
+    .img2{
+        height: 22rem;
+        width: 22rem;
+        margin-top: 375px;
+        position: relative;
+        margin-left: 65px;
+    }
+    .container3{
+        position: absolute;
+        top: 90px;
+        left: 2.5rem;
+        text-decoration: none;
+    }
+    .pro{
+        padding-bottom: 10px;
+        letter-spacing: 1px;
+        font-size: 14px;
+        font-weight: bold;
+        color: #ff414d;
+    }
+    .pro-head{
+        padding-bottom: 15px;
+        font-size: 24px;
+        letter-spacing: 2px;
+        font-weight: bold;
+    }
+    .description2{
+        font-size: 13px;
+        font-weight: bold;
+        letter-spacing: 2px;
+        padding-bottom: 0px;
+    }
+    .arrow-box{
+        background-color: #ff414d;
+        height: 50px;
+        width: 55px;
+        font-weight: bold;
+        color: white;
+        text-align: center;
+        font-size: 5px;
+        padding-top: 0px;
+        position: absolute;
+        right: 66px;
+        top: 677px;
+    }
+
+
+
+    .img3{
+        height: 33rem;
+        width: 31rem;
+        position: relative;
+    }
+    
+
+
+    
+.project-1{
+    background-color: #39393a;
+    text-align: left;
+    position: relative;    
+}
+.pro-head-1{
+    padding-bottom: 15px;
+    font-size: 24px;
+    letter-spacing: 2px;
+    font-weight: bold;
+    color: white;
+}
+.descript{
+    font-size: 13px;
+    font-weight: bold;
+    letter-spacing: 2px;
+    color: #c5c3c3;
+    padding-bottom: 40px;    
+}
+.description2-1{
+    font-size: 13px;
+    font-weight: bold;
+    letter-spacing: 2px;
+    color: #c5c3c3;
+    margin-top: -15px;
+
+}
+.pro1{
+    padding-bottom: 40px;
+    letter-spacing: 1px;
+    font-size: 16px;
+    font-weight: bold;
+    color: #ff414d;
+}
+.img4{
+    height: 28rem;
+    width: 26rem;
+    margin-left: 2rem;
+    margin-top: 450px;
+    position: relative;
+    padding-top: 0px;
+    padding-bottom: 50px;
+}
+.arrow-box-1{
+    background-color: #ff414d;
+    height: 50px;
+    width: 55px;
+    font-weight: normal;
+    color: white;
+    text-align: center;
+    font-size: 12px;
+    padding: 0px;
+    position: absolute;
+    right: 35.5px;
+    top: 798px;
+}
+footer{
+    background-color: #39393a;
+    color: white;
+    text-align: center;
+    letter-spacing: 1.5px;
+    padding: 30px;
+    padding-bottom: 30px;
+    position: relative;
+}
+    
+
+    
+    
+}
+    
+}
